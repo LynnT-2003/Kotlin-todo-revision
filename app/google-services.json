@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820558453087",
+    "project_id": "firstapp-todo-deletable",
+    "storage_bucket": "firstapp-todo-deletable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820558453087:android:8abfc6b6be2671c8a5beea",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW4BqVaNIhGkeZPIb8rI1Gc1PCpsKNS4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
